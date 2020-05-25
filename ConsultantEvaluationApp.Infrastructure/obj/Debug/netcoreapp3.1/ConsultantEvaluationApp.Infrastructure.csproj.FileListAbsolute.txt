@@ -1,0 +1,51 @@
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.deps.json
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.runtimeconfig.json
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.runtimeconfig.dev.json
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Application.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluatonApp.Domain.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Application.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluatonApp.Domain.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csprojAssemblyReference.cache
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.AssemblyInfoInputs.cache
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.AssemblyInfo.cs
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csproj.CopyComplete
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.genruntimeconfig.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.deps.json
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.runtimeconfig.json
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.pdb
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Application.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluatonApp.Domain.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Application.pdb
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluatonApp.Domain.pdb
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.AssemblyInfo.cs
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csproj.CopyComplete
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.pdb
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.genruntimeconfig.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.deps.json
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.runtimeconfig.json
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Application.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluatonApp.Domain.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluationApp.Application.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\bin\Debug\netcoreapp3.1\ConsultantEvaluatonApp.Domain.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.AssemblyInfo.cs
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.csproj.CopyComplete
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Infrastructure\obj\Debug\netcoreapp3.1\ConsultantEvaluationApp.Infrastructure.genruntimeconfig.cache

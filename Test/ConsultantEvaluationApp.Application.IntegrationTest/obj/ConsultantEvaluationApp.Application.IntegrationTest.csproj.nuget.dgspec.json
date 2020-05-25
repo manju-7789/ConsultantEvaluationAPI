@@ -1,0 +1,411 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\Test\\ConsultantEvaluationApp.Application.IntegrationTest\\ConsultantEvaluationApp.Application.IntegrationTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.API\\ConsultantEvaluationApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.API\\ConsultantEvaluationApp.API.csproj",
+        "projectName": "ConsultantEvaluationApp.API",
+        "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.API\\ConsultantEvaluationApp.API.csproj",
+        "packagesPath": "C:\\Users\\manjusha.korada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manjusha.korada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj": {
+                "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj"
+              },
+              "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Infrastructure\\ConsultantEvaluationApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Infrastructure\\ConsultantEvaluationApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Utils": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj",
+        "projectName": "ConsultantEvaluationApp.Application",
+        "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj",
+        "packagesPath": "C:\\Users\\manjusha.korada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manjusha.korada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluatonApp.Domain\\ConsultantEvaluatonApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluatonApp.Domain\\ConsultantEvaluatonApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Infrastructure\\ConsultantEvaluationApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Infrastructure\\ConsultantEvaluationApp.Infrastructure.csproj",
+        "projectName": "ConsultantEvaluationApp.Infrastructure",
+        "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Infrastructure\\ConsultantEvaluationApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\manjusha.korada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manjusha.korada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj": {
+                "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.Application\\ConsultantEvaluationApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluatonApp.Domain\\ConsultantEvaluatonApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluatonApp.Domain\\ConsultantEvaluatonApp.Domain.csproj",
+        "projectName": "ConsultantEvaluatonApp.Domain",
+        "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluatonApp.Domain\\ConsultantEvaluatonApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\manjusha.korada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluatonApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manjusha.korada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\Test\\ConsultantEvaluationApp.Application.IntegrationTest\\ConsultantEvaluationApp.Application.IntegrationTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\Test\\ConsultantEvaluationApp.Application.IntegrationTest\\ConsultantEvaluationApp.Application.IntegrationTest.csproj",
+        "projectName": "ConsultantEvaluationApp.Application.IntegrationTest",
+        "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\Test\\ConsultantEvaluationApp.Application.IntegrationTest\\ConsultantEvaluationApp.Application.IntegrationTest.csproj",
+        "packagesPath": "C:\\Users\\manjusha.korada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\Test\\ConsultantEvaluationApp.Application.IntegrationTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manjusha.korada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.API\\ConsultantEvaluationApp.API.csproj": {
+                "projectPath": "C:\\Users\\manjusha.korada\\Documents\\ConsultantEvaluationApp_POC\\ConsultantEvaluationApp\\ConsultantEvaluationApp.API\\ConsultantEvaluationApp.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Respawn": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.deps.json
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluatonApp.Domain.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluatonApp.Domain.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csprojAssemblyReference.cache
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.AssemblyInfoInputs.cache
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.AssemblyInfo.cs
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csproj.CopyComplete
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.dll
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.pdb
+C:\.net core practise\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.deps.json
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.pdb
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluatonApp.Domain.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluatonApp.Domain.pdb
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csprojAssemblyReference.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.AssemblyInfoInputs.cache
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.AssemblyInfo.cs
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csproj.CopyComplete
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.dll
+C:\Users\manjusha.korada\Documents\Clean Arch Testing\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.deps.json
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluationApp.Application.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluatonApp.Domain.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\bin\Debug\netstandard2.1\ConsultantEvaluatonApp.Domain.pdb
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csprojAssemblyReference.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.AssemblyInfoInputs.cache
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.AssemblyInfo.cs
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.csproj.CopyComplete
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.dll
+C:\Users\manjusha.korada\Documents\ConsultantEvaluationApp_POC\ConsultantEvaluationApp\ConsultantEvaluationApp.Application\obj\Debug\netstandard2.1\ConsultantEvaluationApp.Application.pdb
